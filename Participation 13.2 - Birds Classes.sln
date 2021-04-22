@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Participation 13.2 - Birds Classes", "Participation 13.2 - Birds Classes\Participation 13.2 - Birds Classes.csproj", "{30B3A832-70E6-4A6B-9A7D-0FA7BBB519DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30B3A832-70E6-4A6B-9A7D-0FA7BBB519DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B3A832-70E6-4A6B-9A7D-0FA7BBB519DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B3A832-70E6-4A6B-9A7D-0FA7BBB519DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B3A832-70E6-4A6B-9A7D-0FA7BBB519DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E907585F-0118-4B2E-9B11-2DB8351FA3C3}
+	EndGlobalSection
+EndGlobal
